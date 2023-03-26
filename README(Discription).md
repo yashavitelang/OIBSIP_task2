@@ -9,6 +9,9 @@ As the number of turns ends for the user it will display the status of user whet
 if the user loses the game, the system will show the random number which was supposed to guess.
 it will show the number of tries to get the random number and score out of 100 based on it. 
 
+#oasisinfobyte #javaprogramming 
+
+
 
 https://user-images.githubusercontent.com/91070190/227775689-9b13aecb-d28c-4e43-a019-a364210564fe.mp4
 
